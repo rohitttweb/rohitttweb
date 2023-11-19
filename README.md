@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Rohit kumar  and I'm a Studend from Punjab, India</p>
+<p align="left">My name is  Rohit kumar  and I'm a student from Punjab, India</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 23-11-2001<br>📚 I'm currently learning DSA<br>🎯 Goals: Better Devloper<br>🎲 Fun fact: I am Introvet</p>
+<p align="left">✨ Creating bugs since 🤷‍♂️<br>📚 I'm currently learning Something<br>🎯 Goals: ........<br>🎲 Fun fact: ........t</p>
 
 ###
 
