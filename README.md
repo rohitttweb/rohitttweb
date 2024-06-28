@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 🤷‍♂️<br>📚 I'm currently learning Something<br>🎯 Goals: 🤫 <br>🎲 Fun fact: i like writing Scripting... :)</p>
+<p align="left">✨ Creating bugs since 🤷‍♂️<br>📚 I'm currently learning Something<br>🎯 Goals: 🤫 <br>🎲 Fun fact: i like writing Scripts... :)</p>
 
 ###
 
